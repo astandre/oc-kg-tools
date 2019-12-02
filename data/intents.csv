@@ -1,0 +1,9 @@
+ObtenerInformacion,http://127.0.0.1/ockb/ontology/Course
+ObtenerFechas,http://127.0.0.1/ockb/ontology/Course
+ObtenerFechasInicio,http://127.0.0.1/ockb/ontology/Course
+ObtenerPrerequisitos,http://127.0.0.1/ockb/ontology/Course
+ObtenerDuracion,http://127.0.0.1/ockb/ontology/Course
+ObtenerPrecio,http://127.0.0.1/ockb/ontology/Course
+ObtenerDocente,http://127.0.0.1/ockb/ontology/Teacher
+ObtenerContenidos,http://127.0.0.1/ockb/ontology/Content
+listarCursos,http://127.0.0.1/ockb/ontology/CourseOffer

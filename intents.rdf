@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://127.0.0.1/ockb/ontology/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://127.0.0.1/ockb/resources/ObtenerDocente">
+    <ns1:trainingSentence>Quién es mi profesor en el curso?</ns1:trainingSentence>
+    <ns1:trainingSentence>Docente del mooc?</ns1:trainingSentence>
+    <ns1:intentLabel>profesor</ns1:intentLabel>
+    <ns1:trainingSentence>Nombre del docente del mooc</ns1:trainingSentence>
+    <ns1:intentLabel>tutor</ns1:intentLabel>
+    <ns1:trainingSentence>Quién es el docente encargado de la materia?</ns1:trainingSentence>
+    <ns1:intentLabel>docente</ns1:intentLabel>
+    <ns1:trainingSentence>información del docente</ns1:trainingSentence>
+    <ns1:trainingSentence>Cual es el docente del curso de emprendimiento</ns1:trainingSentence>
+    <ns1:trainingSentence>cual es mi docente del mooc</ns1:trainingSentence>
+    <ns1:trainingSentence>Que profesor esta a cargo del curso</ns1:trainingSentence>
+    <ns1:trainingSentence>Que docente acompaña  al estudiante?</ns1:trainingSentence>
+    <ns1:intentLabel>profe</ns1:intentLabel>
+    <ns1:trainingSentence>Quién es el docente encargado?</ns1:trainingSentence>
+    <ns1:hasAnswer rdf:resource="http://127.0.0.1/ockb/resources/ObtenerDocenteAnswer"/>
+    <ns1:requiresEntity rdf:resource="http://127.0.0.1/ockb/ontology/Teacher"/>
+    <ns1:intentName>ObtenerDocente</ns1:intentName>
+    <rdf:type rdf:resource="http://127.0.0.1/ockb/ontology/Intent"/>
+    <ns1:trainingSentence>Cual es el profe de Salud Sexual y Reproductiva</ns1:trainingSentence>
+    <ns1:trainingSentence>Quién va a dar el MOOC</ns1:trainingSentence>
+    <ns1:trainingSentence>Qué docente imparte el mooc?</ns1:trainingSentence>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/ockb/resources/ObtenerFechasInicio">
+    <ns1:intentLabel>empieza</ns1:intentLabel>
+    <ns1:intentName>ObtenerFechasInicio</ns1:intentName>
+    <ns1:intentLabel>fecha</ns1:intentLabel>
+    <ns1:requiresEntity rdf:resource="http://127.0.0.1/ockb/ontology/Course"/>
+    <rdf:type rdf:resource="http://127.0.0.1/ockb/ontology/Intent"/>
+    <ns1:trainingSentence>En que fecha inician los moocs?</ns1:trainingSentence>
+    <ns1:trainingSentence>Cuándo inicia el curso de emprendimiento</ns1:trainingSentence>
+    <ns1:trainingSentence>Fecha de inicio de los moocs?</ns1:trainingSentence>
+    <ns1:intentLabel>inicia</ns1:intentLabel>
+    <ns1:trainingSentence>Cuándo empiezan los cursos ?</ns1:trainingSentence>
+    <ns1:intentLabel>empezar</ns1:intentLabel>
+    <ns1:trainingSentence>Día de inicio de los moocs ?</ns1:trainingSentence>
+    <ns1:intentLabel>inicio</ns1:intentLabel>
+    <ns1:intentLabel>comienza</ns1:intentLabel>
+    <ns1:trainingSentence>A partir de que fecha empiezan los mooc?</ns1:trainingSentence>
+    <ns1:hasAnswer rdf:resource="http://127.0.0.1/ockb/resources/ObtenerFechasInicioAnswer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/ockb/resources/ObtenerFechas">
+    <ns1:intentLabel>clave</ns1:intentLabel>
+    <ns1:intentLabel>importantes</ns1:intentLabel>
+    <ns1:hasAnswer rdf:resource="http://127.0.0.1/ockb/resources/ObtenerFechasAnswer"/>
+    <ns1:trainingSentence>fechas de inicio y fin</ns1:trainingSentence>
+    <ns1:trainingSentence>Cuáles son las fechas importantes del curso?</ns1:trainingSentence>
+    <ns1:trainingSentence>Fechas importantes del curso de inteligencia artificial</ns1:trainingSentence>
+    <ns1:trainingSentence>Que fechas debo tomar en cuenta</ns1:trainingSentence>
+    <ns1:trainingSentence>Cuándo comienza el curso?</ns1:trainingSentence>
+    <ns1:trainingSentence>Fechas clave del curso</ns1:trainingSentence>
+    <ns1:trainingSentence>Cuáles son las fechas importantes del curso de emprendimiento</ns1:trainingSentence>
+    <ns1:intentName>ObtenerFechas</ns1:intentName>
+    <rdf:type rdf:resource="http://127.0.0.1/ockb/ontology/Intent"/>
+    <ns1:requiresEntity rdf:resource="http://127.0.0.1/ockb/ontology/Course"/>
+    <ns1:intentLabel>fecha</ns1:intentLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/ockb/resources/ObtenerFechasAnswer">
+    <ns1:answerTemplate>Las fechas importantes del curso |curso| son |curso|</ns1:answerTemplate>
+    <ns1:answerProperty rdf:resource=""/>
+    <rdf:type rdf:resource="http://127.0.0.1/ockb/ontology/Answer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/ockb/resources/ObtenerDuracion">
+    <ns1:trainingSentence>cual es la duracion de psicologia social?</ns1:trainingSentence>
+    <ns1:intentName>ObtenerDuracion</ns1:intentName>
+    <ns1:trainingSentence>Duración del curso</ns1:trainingSentence>
+    <ns1:trainingSentence>Cuánto tiempo dura el mooc?</ns1:trainingSentence>
+    <ns1:trainingSentence>Cuanto dura el curso</ns1:trainingSentence>
+    <ns1:intentLabel>semana</ns1:intentLabel>
+    <ns1:intentLabel>duracion</ns1:intentLabel>
+    <ns1:trainingSentence>cuanto dura el curso?</ns1:trainingSentence>
+    <ns1:trainingSentence>Número de horas del mooc?</ns1:trainingSentence>
+    <ns1:requiresEntity rdf:resource="http://127.0.0.1/ockb/ontology/Course"/>
+    <ns1:hasAnswer rdf:resource="http://127.0.0.1/ockb/resources/ObtenerDuracionAnswer"/>
+    <ns1:intentLabel>horas</ns1:intentLabel>
+    <ns1:trainingSentence>De cuántas semanas es el mooc?</ns1:trainingSentence>
+    <ns1:trainingSentence>Tiempo que dura un curso?</ns1:trainingSentence>
+    <rdf:type rdf:resource="http://127.0.0.1/ockb/ontology/Intent"/>
+    <ns1:intentLabel>tiempo</ns1:intentLabel>
+    <ns1:trainingSentence>En cuántas semanas se realiza el curso?</ns1:trainingSentence>
+    <ns1:intentLabel>semanas</ns1:intentLabel>
+    <ns1:trainingSentence>Cuántas horas dura el mooc?</ns1:trainingSentence>
+    <ns1:trainingSentence>Cuanto dura el curso de empendimiento</ns1:trainingSentence>
+    <ns1:intentLabel>hora</ns1:intentLabel>
+    <ns1:trainingSentence>cuanto puede durar un curso mooc</ns1:trainingSentence>
+    <ns1:intentLabel>dura</ns1:intentLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/ockb/resources/ObtenerPrecio">
+    <ns1:trainingSentence>Cual es el precio del curso de emprendimiento</ns1:trainingSentence>
+    <ns1:intentName>ObtenerPrecio</ns1:intentName>
+    <ns1:intentLabel>inversión</ns1:intentLabel>
+    <ns1:trainingSentence>Costo</ns1:trainingSentence>
+    <ns1:trainingSentence>costo de los cursos?</ns1:trainingSentence>
+    <ns1:intentLabel>costo</ns1:intentLabel>
+    <ns1:trainingSentence>Cuanto cuesta un curso?</ns1:trainingSentence>
+    <ns1:trainingSentence>Cuánto vale?</ns1:trainingSentence>
+    <ns1:requiresEntity rdf:resource="http://127.0.0.1/ockb/ontology/Course"/>
+    <ns1:intentLabel>precio</ns1:intentLabel>
+    <ns1:intentLabel>valor</ns1:intentLabel>
+    <ns1:intentLabel>gratis</ns1:intentLabel>
+    <ns1:trainingSentence>Cuanto cuesta el  curso Método Toyota?</ns1:trainingSentence>
+    <ns1:trainingSentence>cual es el valor de los componentes?</ns1:trainingSentence>
+    <ns1:trainingSentence>Inversión total del curso</ns1:trainingSentence>
+    <ns1:intentLabel>cuestan</ns1:intentLabel>
+    <ns1:trainingSentence>tiene algun valor los cursos?</ns1:trainingSentence>
+    <ns1:trainingSentence>Cuanto vale el mooc?</ns1:trainingSentence>
+    <ns1:trainingSentence>Cuánto cuesta el mooc de Administración Empresarial?</ns1:trainingSentence>
+    <ns1:hasAnswer rdf:resource="http://127.0.0.1/ockb/resources/ObtenerPrecioAnswer"/>
+    <ns1:trainingSentence>cuanto cuesta los cursos</ns1:trainingSentence>
+    <ns1:trainingSentence>Precio</ns1:trainingSentence>
+    <rdf:type rdf:resource="http://127.0.0.1/ockb/ontology/Intent"/>
+    <ns1:trainingSentence>Es gratis?</ns1:trainingSentence>
+    <ns1:trainingSentence>Valor del curso?</ns1:trainingSentence>
+    <ns1:trainingSentence>Cuál es el precio?</ns1:trainingSentence>
+    <ns1:trainingSentence>Que vale el curso ?</ns1:trainingSentence>
+    <ns1:intentLabel>vale</ns1:intentLabel>
+    <ns1:intentLabel>cuesta</ns1:intentLabel>
+    <ns1:trainingSentence>Cuál es precio del curso?</ns1:trainingSentence>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/ockb/resources/listarCursosAnswer">
+    <rdf:type rdf:resource="http://127.0.0.1/ockb/ontology/Answer"/>
+    <ns1:answerTemplate>Los cursos de la oferta actual son:  |cursos|</ns1:answerTemplate>
+    <ns1:answerProperty rdf:resource="http://127.0.0.1/ockb/ontology/CourseOffer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/ockb/resources/ObtenerPrerequisitosAnswer">
+    <rdf:type rdf:resource="http://127.0.0.1/ockb/ontology/Answer"/>
+    <ns1:answerTemplate>Los prerequisitos del curso |curso| son |prerequisitos|</ns1:answerTemplate>
+    <ns1:answerProperty rdf:resource=""/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/ockb/resources/listarCursos">
+    <ns1:trainingSentence>Cual es la oferta actual</ns1:trainingSentence>
+    <ns1:trainingSentence>Listame los cursos</ns1:trainingSentence>
+    <ns1:trainingSentence>Que cursos tiene</ns1:trainingSentence>
+    <ns1:intentLabel>listame</ns1:intentLabel>
+    <ns1:requiresEntity rdf:resource="http://127.0.0.1/ockb/ontology/CourseOffer"/>
+    <ns1:intentName>listarCursos</ns1:intentName>
+    <ns1:trainingSentence>Que cursos me ofreces</ns1:trainingSentence>
+    <ns1:trainingSentence>Que cursos hay</ns1:trainingSentence>
+    <ns1:hasAnswer rdf:resource="http://127.0.0.1/ockb/resources/listarCursosAnswer"/>
+    <ns1:intentLabel>cursos</ns1:intentLabel>
+    <ns1:intentLabel>oferta</ns1:intentLabel>
+    <ns1:trainingSentence>Cuentame que cursos tienes</ns1:trainingSentence>
+    <ns1:trainingSentence>Que cursos estan disponibles</ns1:trainingSentence>
+    <rdf:type rdf:resource="http://127.0.0.1/ockb/ontology/Intent"/>
+    <ns1:intentLabel>muestrame</ns1:intentLabel>
+    <ns1:intentLabel>listar</ns1:intentLabel>
+    <ns1:trainingSentence>Muestrame los cursos</ns1:trainingSentence>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/ockb/resources/ObtenerInformacion">
+    <ns1:intentLabel>informacion</ns1:intentLabel>
+    <ns1:trainingSentence>De que se trata el curso?</ns1:trainingSentence>
+    <ns1:trainingSentence>Quiero informacion del curso de emprendimiento</ns1:trainingSentence>
+    <ns1:trainingSentence>Me ayudas con información acerca del curso?</ns1:trainingSentence>
+    <ns1:intentLabel>trata</ns1:intentLabel>
+    <ns1:requiresEntity rdf:resource="http://127.0.0.1/ockb/ontology/Course"/>
+    <rdf:type rdf:resource="http://127.0.0.1/ockb/ontology/Intent"/>
+    <ns1:trainingSentence>De qué va el curso?</ns1:trainingSentence>
+    <ns1:intentName>ObtenerInformacion</ns1:intentName>
+    <ns1:intentLabel>introducción</ns1:intentLabel>
+    <ns1:intentLabel>resumen</ns1:intentLabel>
+    <ns1:trainingSentence>Breve introducción al curso</ns1:trainingSentence>
+    <ns1:trainingSentence>Muestrame un resumen del mooc?</ns1:trainingSentence>
+    <ns1:trainingSentence>que es emprendimiento</ns1:trainingSentence>
+    <ns1:trainingSentence>De que trata el mooc?</ns1:trainingSentence>
+    <ns1:intentLabel>dar</ns1:intentLabel>
+    <ns1:hasAnswer rdf:resource="http://127.0.0.1/ockb/resources/ObtenerInformacionAnswer"/>
+    <ns1:intentLabel>información</ns1:intentLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/ockb/resources/ObtenerInformacionAnswer">
+    <rdf:type rdf:resource="http://127.0.0.1/ockb/ontology/Answer"/>
+    <ns1:answerTemplate>El curso |curso| se trata de |descripcion|</ns1:answerTemplate>
+    <ns1:answerProperty rdf:resource=""/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/ockb/resources/ObtenerContenidos">
+    <ns1:intentName>ObtenerContenidos</ns1:intentName>
+    <ns1:hasAnswer rdf:resource="http://127.0.0.1/ockb/resources/ObtenerContenidosAnswer"/>
+    <ns1:trainingSentence>Que se va a tratar en este curso?</ns1:trainingSentence>
+    <ns1:trainingSentence>De que se tratan los moocs</ns1:trainingSentence>
+    <ns1:intentLabel>tratan</ns1:intentLabel>
+    <ns1:intentLabel>tratar</ns1:intentLabel>
+    <ns1:trainingSentence>Cuál es la temática de cada curso?</ns1:trainingSentence>
+    <ns1:intentLabel>contenido</ns1:intentLabel>
+    <ns1:intentLabel>temática</ns1:intentLabel>
+    <ns1:trainingSentence>Qué se va a dar en el curso?</ns1:trainingSentence>
+    <ns1:intentLabel>temas</ns1:intentLabel>
+    <ns1:trainingSentence>Contenido del curso</ns1:trainingSentence>
+    <ns1:intentLabel>dar</ns1:intentLabel>
+    <ns1:requiresEntity rdf:resource="http://127.0.0.1/ockb/ontology/Content"/>
+    <rdf:type rdf:resource="http://127.0.0.1/ockb/ontology/Intent"/>
+    <ns1:trainingSentence>Cuáles son los contenidos a tratar en el curos de emprendimiento</ns1:trainingSentence>
+    <ns1:intentLabel>tema</ns1:intentLabel>
+    <ns1:trainingSentence>Qué temas se van a tratar en cada curso?</ns1:trainingSentence>
+    <ns1:trainingSentence>Cuáles son las temas del curso?</ns1:trainingSentence>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/ockb/resources/ObtenerDuracionAnswer">
+    <ns1:answerProperty rdf:resource=""/>
+    <rdf:type rdf:resource="http://127.0.0.1/ockb/ontology/Answer"/>
+    <ns1:answerTemplate>El curso |curso| tiene una duracion de |duracion|</ns1:answerTemplate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/ockb/resources/ObtenerFechasInicioAnswer">
+    <rdf:type rdf:resource="http://127.0.0.1/ockb/ontology/Answer"/>
+    <ns1:answerProperty rdf:resource=""/>
+    <ns1:answerTemplate>El curso |curso| inicia el dia |fecha|</ns1:answerTemplate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/ockb/resources/ObtenerPrerequisitos">
+    <ns1:intentLabel>previos</ns1:intentLabel>
+    <ns1:intentLabel>requisito</ns1:intentLabel>
+    <ns1:intentLabel>pre-requisito</ns1:intentLabel>
+    <ns1:trainingSentence>Me puedes indicar los prerequistos necesarios?</ns1:trainingSentence>
+    <ns1:intentLabel>necesito</ns1:intentLabel>
+    <ns1:requiresEntity rdf:resource="http://127.0.0.1/ockb/ontology/Course"/>
+    <ns1:intentLabel>necesita</ns1:intentLabel>
+    <ns1:trainingSentence>Cuáles son los requisitos necesarios para el curso de emprendimiento</ns1:trainingSentence>
+    <ns1:trainingSentence>Los pre requisitos  cuales son?</ns1:trainingSentence>
+    <ns1:trainingSentence>Qué conocimientos previos debo tener?</ns1:trainingSentence>
+    <ns1:trainingSentence>Qué se necesita?</ns1:trainingSentence>
+    <ns1:trainingSentence>que se necesita saber para este curso</ns1:trainingSentence>
+    <ns1:trainingSentence>Conocimientos previos</ns1:trainingSentence>
+    <ns1:trainingSentence>Requisitos previos</ns1:trainingSentence>
+    <ns1:intentName>ObtenerPrerequisitos</ns1:intentName>
+    <ns1:trainingSentence>Que necesito saber antes de iniciar el curso</ns1:trainingSentence>
+    <ns1:intentLabel>necesario</ns1:intentLabel>
+    <ns1:intentLabel>antes</ns1:intentLabel>
+    <ns1:trainingSentence>Qué debería saber para tomar el curso?</ns1:trainingSentence>
+    <rdf:type rdf:resource="http://127.0.0.1/ockb/ontology/Intent"/>
+    <ns1:hasAnswer rdf:resource="http://127.0.0.1/ockb/resources/ObtenerPrerequisitosAnswer"/>
+    <ns1:trainingSentence>Cuáles son los prerequisitos?</ns1:trainingSentence>
+    <ns1:trainingSentence>Dame a conocer los prerequisitos</ns1:trainingSentence>
+    <ns1:trainingSentence>Qué tengo que saber?</ns1:trainingSentence>
+    <ns1:intentLabel>saber</ns1:intentLabel>
+    <ns1:intentLabel>prerequisito</ns1:intentLabel>
+    <ns1:trainingSentence>Requisitos previos de ingreso  al curso</ns1:trainingSentence>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/ockb/resources/ObtenerContenidosAnswer">
+    <rdf:type rdf:resource="http://127.0.0.1/ockb/ontology/Answer"/>
+    <ns1:answerTemplate>Los contenidos a tratar en el curso |curso| son |contenidos|</ns1:answerTemplate>
+    <ns1:answerProperty rdf:resource="http://127.0.0.1/ockb/ontology/Teacher"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/ockb/resources/ObtenerDocenteAnswer">
+    <ns1:answerProperty rdf:resource="http://127.0.0.1/ockb/ontology/Course"/>
+    <rdf:type rdf:resource="http://127.0.0.1/ockb/ontology/Answer"/>
+    <ns1:answerTemplate>El docente encargado del curso |curso| es |docente|</ns1:answerTemplate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/ockb/resources/ObtenerPrecioAnswer">
+    <rdf:type rdf:resource="http://127.0.0.1/ockb/ontology/Answer"/>
+    <ns1:answerTemplate>None</ns1:answerTemplate>
+    <ns1:answerProperty rdf:resource=""/>
+  </rdf:Description>
+</rdf:RDF>
