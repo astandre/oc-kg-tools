@@ -1,9 +1,9 @@
-ObtenerInformacion,El curso |curso| se trata de |descripcion|,http://127.0.0.1/ockb/ontology/description,
-ObtenerFechas,Las fechas importantes del curso |curso| son |curso|,http://127.0.0.1/ockb/ontology/beginDate  ,
-ObtenerFechasInicio,El curso |curso| inicia el dia |fecha|,http://127.0.0.1/ockb/ontology/beginDate,
-ObtenerPrerequisitos,Los prerequisitos del curso |curso| son |prerequisitos|,http://127.0.0.1/ockb/ontology/requirement,
-ObtenerDuracion,El curso |curso| tiene una duracion de |duracion|,http://127.0.0.1/ockb/ontology/duration,
-ObtenerPrecio,,http://127.0.0.1/ockb/ontology/cost,
-ObtenerDocente,El docente encargado del curso |curso| es |docente|,http://127.0.0.1/ockb/ontology/teacherName,http://127.0.0.1/ockb/ontology/Course
-ObtenerContenidos,Los contenidos a tratar en el curso |curso| son |contenidos|,http://127.0.0.1/ockb/ontology/content,http://127.0.0.1/ockb/ontology/Teacher
-listarCursos,Los cursos de la oferta actual son:  |cursos|,http://127.0.0.1/ockb/ontology/courseName,http://127.0.0.1/ockb/ontology/CourseOffer
+ObtenerInformacion,El curso |curso| se trata de |descripcion|,http://127.0.0.1/ockb/ontology/description,,
+ObtenerFechas,Las fechas importantes del curso |curso| son |curso|,http://127.0.0.1/ockb/ontology/beginDate,,
+ObtenerFechasInicio,El curso |curso| inicia el dia |fecha|,http://127.0.0.1/ockb/ontology/beginDate,,
+ObtenerPrerequisitos,Los prerequisitos del curso |curso| son |prerequisitos|,http://127.0.0.1/ockb/ontology/requirement,,
+ObtenerDuracion,El curso |curso| tiene una duracion de |duracion|,http://127.0.0.1/ockb/ontology/duration,,
+ObtenerPrecio,,http://127.0.0.1/ockb/ontology/cost,,
+ObtenerDocente,El docente encargado del curso |curso| es |docente|,http://127.0.0.1/ockb/ontology/teacherName,http://127.0.0.1/ockb/ontology/hasTeacher,
+ObtenerContenidos,Los contenidos a tratar en el curso |curso| son |contenidos|,http://127.0.0.1/ockb/ontology/content,http://127.0.0.1/ockb/ontology/Teacher,
+listarCursos,Los cursos de la oferta actual son:  |cursos|,http://127.0.0.1/ockb/ontology/courseName,http://127.0.0.1/ockb/ontology/CourseOffer,http://127.0.0.1/ockb/course/ontology/OpenCampusFebrero-Julio
