@@ -32,16 +32,22 @@ class CursosMetaSpider(scrapy.Spider):
     cursos_list = []
 
     def start_requests(self):
+        ignore = []
+        with open("./cursos-ignore.csv", mode='r', encoding='utf-8') as f:
+            data = f.read()
+            ignore = data.splitlines()
+            f.close()
 
         with open("./cursos-raw.csv", mode='r', encoding='utf-8') as f:
             csv_reader = csv.DictReader(f)
             for row in csv_reader:
                 row["url"] = f"{self.BASE_URL}{row['url']}"
-                self.cursos_list.append({
-                    "url": row["url"],
-                    "code": row["code"],
-                    "curso": row["curso"],
-                })
+                if row["code"] not in ignore:
+                    self.cursos_list.append({
+                        "url": row["url"],
+                        "code": row["code"],
+                        "curso": row["curso"],
+                    })
 
         # print(cursos_list)
         for url in self.cursos_list:
