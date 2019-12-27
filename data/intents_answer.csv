@@ -1,9 +1,9 @@
-ObtenerInformacion,El curso |curso| se trata de |descripcion|,http://127.0.0.1/ockb/ontology/description,,
-ObtenerFechas,Las fechas importantes del curso |curso| son |curso|,http://127.0.0.1/ockb/ontology/beginDate,,
-ObtenerFechasInicio,El curso |curso| inicia el dia |fecha|,http://127.0.0.1/ockb/ontology/beginDate,,
-ObtenerPrerequisitos,Los prerequisitos del curso |curso| son |prerequisitos|,http://127.0.0.1/ockb/ontology/requirement,,
-ObtenerDuracion,El curso |curso| tiene una duracion de |duracion|,http://127.0.0.1/ockb/ontology/duration,,
-ObtenerPrecio,,http://127.0.0.1/ockb/ontology/cost,,
-ObtenerDocente,El docente encargado del curso |curso| es |docente|,http://127.0.0.1/ockb/ontology/teacherName,http://127.0.0.1/ockb/ontology/hasTeacher,
-ObtenerContenidos,Los contenidos a tratar en el curso |curso| son |contenidos|,http://127.0.0.1/ockb/ontology/content,http://127.0.0.1/ockb/ontology/Teacher,
-listarCursos,Los cursos de la oferta actual son:  |cursos|,http://127.0.0.1/ockb/ontology/courseName,http://127.0.0.1/ockb/ontology/CourseOffer,http://127.0.0.1/ockb/course/ontology/OpenCampusFebrero-Julio
+ObtenerInformacion,El curso se trata de {%description%},http://127.0.0.1/ockb/course/ontology/description,,
+ObtenerFechas,Las fechas importantes del curso son |curso|,http://127.0.0.1/ockb/course/ontology/beginDate,,
+ObtenerFechasInicio,El curso inicia el dia {%beginDate%},http://127.0.0.1/ockb/course/ontology/beginDate,,
+ObtenerPrerequisitos,Los prerequisitos del curso son {%requirement%},http://127.0.0.1/ockb/course/ontology/requirement,,
+ObtenerDuracion,El curso tiene una duracion de {%duration%} ,http://127.0.0.1/ockb/course/ontology/duration,,
+ObtenerPrecio,{%cost%},http://127.0.0.1/ockb/course/ontology/cost,,
+ObtenerDocente,El docente encargado del curso es {%teacherName%},http://127.0.0.1/ockb/course/ontology/teacherName,http://127.0.0.1/ockb/course/ontology/hasTeacher,
+ObtenerContenidos,Los contenidos a tratar en el curso son {%content%},http://127.0.0.1/ockb/course/ontology/content,http://127.0.0.1/ockb/course/ontology/hasContenido,
+listarCursos,Los cursos de la oferta actual son: {%courseName%},http://127.0.0.1/ockb/course/ontology/courseName,http://127.0.0.1/ockb/course/ontology/hasCourse,http://127.0.0.1/ockb/resources/OpenCampusFebrero-Julio
