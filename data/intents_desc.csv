@@ -1,0 +1,9 @@
+ObtenerInformacion,Obtener una breve descripcion del curso
+ObtenerFechas,Obtener las fechas importantes del curso
+ObtenerFechasInicio,Obtener las fechas de inicio del curso
+ObtenerPrerequisitos,Obtener prerequisitos del curso
+ObtenerDuracion,Obtener la duracion del curso
+ObtenerPrecio,Obtener el precio del curso
+ObtenerDocente,Obtener los nombres de los docentes del curso
+ObtenerContenidos,Obtener los contenidos del curso
+listarCursos,Presentar la oferta actual de cursos
