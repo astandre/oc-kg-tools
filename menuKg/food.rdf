@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://127.0.0.1/food/ontology/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/N0XZN9eP8U02K2Vx13K3">
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596681398123_cko3fu6uek5_500x500?alt=media&amp;token=a008c884-1254-4e0a-9cf5-3b89e1c84e0d</ns1:image_url>
+    <ns1:description></ns1:description>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:name>Sanduche mixto</ns1:name>
+    <ns1:price>1.5</ns1:price>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/7iUeFGTqZHXa4QogWrSq">
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Papa con queso</ns1:name>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:price>1.5</ns1:price>
+    <ns1:description></ns1:description>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596680579068_ba7gfya69oa_500x500?alt=media&amp;token=ddb4733d-d7e9-43ca-bd65-3b36bd76f95b</ns1:image_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/9gZ4ZuUYp4enxFyXm4nz">
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:est_time>5</ns1:est_time>
+    <ns1:name>Cerveza pilsener</ns1:name>
+    <ns1:price>1.75</ns1:price>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596315877463_1fhashf62xh_500x500?alt=media&amp;token=7a6195d6-f72f-420a-9dbc-a78ff21c3927</ns1:image_url>
+    <ns1:description></ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/lfWWxq55OM3SvvikoUl3">
+    <ns1:est_time>5</ns1:est_time>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596683544570_6qzo4xqpa8r_500x500?alt=media&amp;token=090a7b72-333c-454c-b58c-7bdcb59e9df4</ns1:image_url>
+    <ns1:name>Helado</ns1:name>
+    <ns1:price>1</ns1:price>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:description></ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/C26B28GVNyfRhZGCm9MA">
+    <ns1:image_url>undefined</ns1:image_url>
+    <ns1:description></ns1:description>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:price>1.5</ns1:price>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Helados con queso</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/BYhuHR6tghAT3lM1yn1a">
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Limonada</ns1:name>
+    <ns1:est_time>30</ns1:est_time>
+    <ns1:description>Refrescante limonada</ns1:description>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>0.5</ns1:price>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FLYtMA17CjrYaKHh57Ww3%2Fresized%2F1600830885413_03yp9s6i064v_500x500?alt=media&amp;token=01cdd630-b38f-431f-b178-7a0844f3e2a1</ns1:image_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/AULfbD03E1bBXNRziapD">
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:description></ns1:description>
+    <ns1:name>Papas con pechuga apanada</ns1:name>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596681051497_pt57fhrgibm_500x500?alt=media&amp;token=660d03d1-07ca-4cb4-bddd-7c9b64f280e3</ns1:image_url>
+    <ns1:price>1.75</ns1:price>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/OHcurIgM2yuoLfD2O5eS">
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FLYtMA17CjrYaKHh57Ww3%2Fresized%2F1601326292410_n6of546eu2q_500x500?alt=media&amp;token=3138e089-52da-42df-8efc-5c27b6a61fcf</ns1:image_url>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:name>Hamburguesa de res Grande</ns1:name>
+    <ns1:description></ns1:description>
+    <ns1:price>2.5</ns1:price>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/g53vYluJeXlhQwmbHx6K">
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596680623862_xt2v9phik8_500x500?alt=media&amp;token=e985289a-ef40-4851-8b38-c2a47598bd7d</ns1:image_url>
+    <ns1:name>Papa grande</ns1:name>
+    <ns1:description></ns1:description>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:price>2</ns1:price>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/rApytGwzvuc3pewALWbM">
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Jarra de maracuya </ns1:name>
+    <ns1:price>3</ns1:price>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596160866012_w16oi4xdhy_500x500?alt=media&amp;token=7dfffbc9-3e27-47a7-a144-affb999585e1</ns1:image_url>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:description></ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/GGaMGJBenamto0R2PwOR">
+    <ns1:description></ns1:description>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596401187705_2updfo9q2yf_500x500?alt=media&amp;token=52fa23f5-7ead-4fb2-893e-27e8f01bdff2</ns1:image_url>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:price>1</ns1:price>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Capuchino</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/enTaOjZbEelzZEVV5ppA">
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Michelada de Limón</ns1:name>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>3</ns1:price>
+    <ns1:image_url>None</ns1:image_url>
+    <ns1:est_time>None</ns1:est_time>
+    <ns1:description>Deliciosa Michelada con limón, sal y pimienta.</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/bPDj5wWVXSmDv73uL2SW">
+    <ns1:name>Sanduche de queso</ns1:name>
+    <ns1:price>1</ns1:price>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:description></ns1:description>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>undefined</ns1:image_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/8soVhlu05Q1wBtsXivGA">
+    <ns1:name>Sundae</ns1:name>
+    <ns1:description></ns1:description>
+    <ns1:price>2.5</ns1:price>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FLYtMA17CjrYaKHh57Ww3%2Fresized%2F1608179137458_2toqhbmr5oz_500x500?alt=media&amp;token=42c82f70-e45a-4111-8a6c-6ea951edac96</ns1:image_url>
+    <ns1:est_time>10</ns1:est_time>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/K1di29dGzGw5hDmRJ5y4">
+    <ns1:name>Batido doble</ns1:name>
+    <ns1:description></ns1:description>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>2.5</ns1:price>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596400785554_5y3f6j2wy3l_500x500?alt=media&amp;token=9746e85c-5174-4c48-9d77-974353da46a2</ns1:image_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/vv1zBFohmLUhEKqBruxd">
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:description></ns1:description>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596146564459_qsf7w8q68ak_500x500?alt=media&amp;token=360fc7a5-8791-44f9-be3c-b9630076340f</ns1:image_url>
+    <ns1:est_time>5</ns1:est_time>
+    <ns1:price>0.5</ns1:price>
+    <ns1:name>Agua</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/pUpi1PPuk56qcKJPZGCl">
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:description>Deliciosa Michelada con limón, sal, salsa inglesa, y salsa china.</ns1:description>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1606534730914_tr3cih8ia7h_500x500?alt=media&amp;token=1e9fbcf4-8a91-4dca-9579-fd428fafae01</ns1:image_url>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>3</ns1:price>
+    <ns1:name>Michelada Clásica</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/zQClZsehPB7AnWve33ih">
+    <ns1:name>Ensalada de frutas con helado (doble)</ns1:name>
+    <ns1:price>3.5</ns1:price>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596401946434_0gpp59sbs1tk_500x500?alt=media&amp;token=5355ad1b-4c09-4576-b18c-533543e2d5c5</ns1:image_url>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:description></ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/LkBcdwQPIQftq5jNy1xa">
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:description></ns1:description>
+    <ns1:name>Jugo doble</ns1:name>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:price>2</ns1:price>
+    <ns1:image_url>undefined</ns1:image_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/oLQZNTfpgowiHpsHQBWp">
+    <ns1:name>Papa con pollo</ns1:name>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596680510118_hkg0ugl0rii_500x500?alt=media&amp;token=dd1ae7f6-23a5-40cd-8b3e-ec90521e71ee</ns1:image_url>
+    <ns1:description></ns1:description>
+    <ns1:price>2.5</ns1:price>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/sNzRm8LCEU3dRxtgGcPZ">
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:description></ns1:description>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596403063533_209bwrqi3xz_500x500?alt=media&amp;token=e3ddb40b-529d-418e-b867-8884935f7b91</ns1:image_url>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Hamburguesa Mixta</ns1:name>
+    <ns1:price>2.5</ns1:price>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/JRidUs5JkOegdVWp5Lra">
+    <ns1:est_time>10</ns1:est_time>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596509049121_townxy236lj_500x500?alt=media&amp;token=7830e0db-4db2-4a63-9831-5bd332963f66</ns1:image_url>
+    <ns1:description></ns1:description>
+    <ns1:name>Milkshake</ns1:name>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>2.5</ns1:price>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/WiFAjCNtvLHrVboDtCPH">
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596402842401_tmqimh1ctw_500x500?alt=media&amp;token=deee4c19-e486-4adf-945d-38021481357c</ns1:image_url>
+    <ns1:description></ns1:description>
+    <ns1:name>Hamburguesa doble de pollo</ns1:name>
+    <ns1:price>2.75</ns1:price>
+    <ns1:est_time>10</ns1:est_time>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/Cw19QpjqypzCJik13tZL">
+    <ns1:description></ns1:description>
+    <ns1:name>Ensalada de frutas con chantilly</ns1:name>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>1.75</ns1:price>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596401588819_516sa5xjwcd_500x500?alt=media&amp;token=61bd8d44-5816-4cbd-8268-ccd8792b356a</ns1:image_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/NFrtz5CYEOqrssmN1JMU">
+    <ns1:description></ns1:description>
+    <ns1:price>1</ns1:price>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596507034435_at97d2gz84w_500x500?alt=media&amp;token=71b5d4c6-fa17-4b48-8ec2-9647fa3081d1</ns1:image_url>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:name>Tostada de Jamón </ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/5G6Ru6qHtZMhyCWhFZlc">
+    <ns1:price>1.25</ns1:price>
+    <ns1:description></ns1:description>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596400813972_cfgf8bc50pg_500x500?alt=media&amp;token=eea258a6-bbf5-4bb9-b3bb-baa0f294f13a</ns1:image_url>
+    <ns1:est_time>10</ns1:est_time>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Batidos</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/lokfJ7g2iuQyas3i31pQ">
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:description></ns1:description>
+    <ns1:name>Salchipapa 1.50</ns1:name>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>1.5</ns1:price>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596507185756_km0q5umb21h_500x500?alt=media&amp;token=62380fd2-bc6d-4a5a-acf6-8aa2315d4535</ns1:image_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/0cNQEzDEJ762zn7rw3j5">
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>1/2 Jarra de Maracuyá</ns1:name>
+    <ns1:price>1.5</ns1:price>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596160886346_vg8ddvjn8k_500x500?alt=media&amp;token=5453cf32-706b-45f8-8046-f12146fd1a8f</ns1:image_url>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:description></ns1:description>
+    <ns1:est_time>5</ns1:est_time>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/FWh4oJ2c24VpRRelaDcD">
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:description>Chuleta de cerdo a la plancha con arroz, menestra y papas fritas y ensalada</ns1:description>
+    <ns1:price>4</ns1:price>
+    <ns1:name>Chuleta</ns1:name>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1598474331136_cca5129ndo_500x500?alt=media&amp;token=b4ef3cc2-d839-4a4f-ba47-ce50f0c01e7d</ns1:image_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/uhe23Nq27za6zGveDtYd">
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FLYtMA17CjrYaKHh57Ww3%2Fresized%2F1613173435459_cwqcxc8bb2f_500x500?alt=media&amp;token=13d65bc4-66f4-48ed-ae13-c1da53cabb20</ns1:image_url>
+    <ns1:description></ns1:description>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:name>5 Alas</ns1:name>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>6</ns1:price>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/hj3ozC3qaIbqvONELlbL">
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:description></ns1:description>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596400458117_f2c1s8tjawk_500x500?alt=media&amp;token=33035f31-a8b9-47f7-a825-2d394ff6d7ba</ns1:image_url>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>1/8 Pollo</ns1:name>
+    <ns1:price>2.75</ns1:price>
+    <ns1:est_time>10</ns1:est_time>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/RlY3Px6h11qbAhNK9aw5">
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596401123429_9uta9fr66bi_500x500?alt=media&amp;token=b09231e0-f227-41ea-8a8d-0765c0438e28</ns1:image_url>
+    <ns1:name>Café con leche </ns1:name>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>0.75</ns1:price>
+    <ns1:description></ns1:description>
+    <ns1:est_time>5</ns1:est_time>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/J27JngxDqY6ik7SuVX9D">
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FLYtMA17CjrYaKHh57Ww3%2Fresized%2F1600726954301_iebmu4jd6ul_500x500?alt=media&amp;token=020812c3-1f66-48ed-84b6-76b9c7eee64b</ns1:image_url>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:description></ns1:description>
+    <ns1:name>Hamburguesa de res mediana</ns1:name>
+    <ns1:price>1.5</ns1:price>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/bgM9JzlbNp4MER9ZPzKz">
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596402213912_ebbdrhingj9_500x500?alt=media&amp;token=63dcb083-9bad-42cb-8bbb-974485d45238</ns1:image_url>
+    <ns1:name>Gaseosa 3 Litros</ns1:name>
+    <ns1:description></ns1:description>
+    <ns1:price>3.5</ns1:price>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/To2KDMAEA4h3Rf8jabXI">
+    <ns1:name>Pescado</ns1:name>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:description></ns1:description>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FLYtMA17CjrYaKHh57Ww3%2Fresized%2F1608179013572_ra79yfg8ma_500x500?alt=media&amp;token=670d379c-8be4-4250-92a8-9ef6a3df8ad5</ns1:image_url>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>5</ns1:price>
+    <ns1:est_time>5</ns1:est_time>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/FCsnK3ro1Be1vNPD7TYC">
+    <ns1:price>1</ns1:price>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Tostada de queso</ns1:name>
+    <ns1:description></ns1:description>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596507062771_gvm7xws28gg_500x500?alt=media&amp;token=ec0e113e-8161-4d51-aaa6-eb18822edf5c</ns1:image_url>
+    <ns1:est_time>10</ns1:est_time>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/tl9gLuRwXF3YiY9Npx50">
+    <ns1:description></ns1:description>
+    <ns1:name>Copa bambino</ns1:name>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1610512932919_r69hjcgt1nf_500x500?alt=media&amp;token=65317b6d-a688-4a95-9b9e-a2e659f6a311</ns1:image_url>
+    <ns1:price>3</ns1:price>
+    <ns1:est_time>10</ns1:est_time>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/3lVyPrheLhUV591642qt">
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:description></ns1:description>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596400383568_gbkckn0wedo_500x500?alt=media&amp;token=08b70708-3294-4c56-8304-ce5ef9675283</ns1:image_url>
+    <ns1:name>1/4 Pollo</ns1:name>
+    <ns1:price>4</ns1:price>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/egQZYVaKAvNqR2aazZoy">
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Tostada mixta</ns1:name>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596506847255_egxcrzt8gzl_500x500?alt=media&amp;token=f8cf95ac-ea04-4214-8a0a-ac1095a77599</ns1:image_url>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:price>1.5</ns1:price>
+    <ns1:description></ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/HYDJmzrKW1RKS71qTB1z">
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596680949398_g44eubt19kq_500x500?alt=media&amp;token=297d1aa0-615f-4aaa-a574-75e915e7ad07</ns1:image_url>
+    <ns1:price>1.5</ns1:price>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:description></ns1:description>
+    <ns1:name>Papas con huevo</ns1:name>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/w7CjjS0juYnXi9qYaZ6z">
+    <ns1:est_time>5</ns1:est_time>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>0.7</ns1:price>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596402571790_4fql8ge2pzb_500x500?alt=media&amp;token=18ca248b-3b85-4eb9-bdc6-0c90c59892fe</ns1:image_url>
+    <ns1:description></ns1:description>
+    <ns1:name>Gaseosas</ns1:name>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/i8vRxiCKJw2x6Ihe6zZW">
+    <ns1:image_url>null</ns1:image_url>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:price>2</ns1:price>
+    <ns1:name>Hamburguesa especial</ns1:name>
+    <ns1:description></ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/rQFHXNrKx6tyvdkUjcLM">
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596404197346_l0koq9tuxj_500x500?alt=media&amp;token=2a4d31b8-9df8-4520-9231-651ce1db9d14</ns1:image_url>
+    <ns1:description></ns1:description>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:price>1.5</ns1:price>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Hot Dog simple</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/fRR1Gk7OsFuQ4y5mgKoq">
+    <ns1:description></ns1:description>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:price>2.25</ns1:price>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Fresas con crema</ns1:name>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596161447929_h0b3vf7n9ai_500x500?alt=media&amp;token=2939fa89-6f5c-4dec-b9de-8c8b1eaea257</ns1:image_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/jHhAocPWpfgTmUcnAagU">
+    <ns1:name>Papas con Nuggets</ns1:name>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:description></ns1:description>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596680986010_a10xa7uqsxw_500x500?alt=media&amp;token=46d8ef9d-dc6e-45c9-a75f-ef013212ba26</ns1:image_url>
+    <ns1:price>1.25</ns1:price>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:est_time>10</ns1:est_time>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/9wTJfay9uDYq7fyaV5qL">
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:description></ns1:description>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596401078875_a0b6vcocy7a_500x500?alt=media&amp;token=977b1c2c-0889-474c-8340-e9e9ae3cc1a3</ns1:image_url>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Café</ns1:name>
+    <ns1:price>0.5</ns1:price>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/Eu0uDZ74SyMFtM3GGrzs">
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>1/2 Pollo</ns1:name>
+    <ns1:price>8</ns1:price>
+    <ns1:est_time>15</ns1:est_time>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596400253120_hl03na6eiug_500x500?alt=media&amp;token=8a65eefc-6b88-4476-94e9-ad0255756049</ns1:image_url>
+    <ns1:description></ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/XW4UzIarzGvy2pNSkPOR">
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596681032100_lwb2blpnshp_500x500?alt=media&amp;token=3d787da4-a9dd-4e7b-9f4c-b9cbcf3bc472</ns1:image_url>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:price>1</ns1:price>
+    <ns1:name>Papas con salchicha</ns1:name>
+    <ns1:description></ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/qDwr8NefZO3AyDDLIqpw">
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1606534870352_80ywlcf1f2f_500x500?alt=media&amp;token=2cc6db13-6c81-4795-bfa7-2141d9092ae9</ns1:image_url>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Michelada de Maracuyá</ns1:name>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:description>Deliciosa Michelada con limón, sal y maracuyá.</ns1:description>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>3</ns1:price>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/F04pTTcWkhOnBArvpAZm">
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Gaseosa de Litro</ns1:name>
+    <ns1:description></ns1:description>
+    <ns1:price>1.5</ns1:price>
+    <ns1:est_time>5</ns1:est_time>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596402494031_6mk1qlyac24_500x500?alt=media&amp;token=cbc07f0d-adb9-453d-93d4-6b5c20f7ef67</ns1:image_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/pjKiYTiuJOGm446vQ4sN">
+    <ns1:description>Lomo de Tilapia, con arroz, menestra, papas fritas y ensalada.</ns1:description>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1595738515246_jztbdufzd5c_500x500?alt=media&amp;token=76f939f3-d0ae-4d72-887f-1f80550f41d1</ns1:image_url>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Lomo de Tilapia</ns1:name>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>5</ns1:price>
+    <ns1:est_time>15</ns1:est_time>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/SH3o06JosEfvySAPKTGe">
+    <ns1:price>15</ns1:price>
+    <ns1:name>18 Alas</ns1:name>
+    <ns1:description>Salsas disponibles: BBQ, Maracuya y Teriyaki</ns1:description>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1598475834744_iknd4gk4b4_500x500?alt=media&amp;token=4ba3e73e-3a34-475e-b145-0418dd02e239</ns1:image_url>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:est_time>10</ns1:est_time>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/u5hERTMRdxNiVVSyuEiF">
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:description>Salsas disponibles: BBQ, Maracuya y Teriyaki</ns1:description>
+    <ns1:name>12 Alas</ns1:name>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1598473350980_f5rmgrc3bh_500x500?alt=media&amp;token=d720097c-51c3-46bc-8658-9dda2402ff26</ns1:image_url>
+    <ns1:price>10</ns1:price>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/VLrPseM8rHpVRaQ0cy8b">
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FLYtMA17CjrYaKHh57Ww3%2Fresized%2F1600831009636_0ch5gf1tg91k_500x500?alt=media&amp;token=0d4302ff-9484-46eb-80b8-75b5d5b131f2</ns1:image_url>
+    <ns1:description></ns1:description>
+    <ns1:price>1.5</ns1:price>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:est_time>5</ns1:est_time>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>3 leches</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/Ai4xX2gAbKhBAftt5fHO">
+    <ns1:image_url>undefined</ns1:image_url>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:price>3.5</ns1:price>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:description></ns1:description>
+    <ns1:name>Copa Pingüino</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/NIJOEcC37Kb524wSZoAr">
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:price>2</ns1:price>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Hamburguesa de pollo</ns1:name>
+    <ns1:description></ns1:description>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596402714364_19pzronfwmb_500x500?alt=media&amp;token=dcac748b-2d19-466f-807c-037173de4616</ns1:image_url>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/MGUxrj02w5X8ibhKIX9O">
+    <ns1:price>2.25</ns1:price>
+    <ns1:est_time>5</ns1:est_time>
+    <ns1:description></ns1:description>
+    <ns1:name>Corona</ns1:name>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1610513073080_wysjzotjjdg_500x500?alt=media&amp;token=5e78b7bd-aa8d-4b90-9365-52fa15695051</ns1:image_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/lS5yV1B3j19jxHqRFIyz">
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596401536893_vf4ax5obm49_500x500?alt=media&amp;token=8b9d6aac-546e-4733-8ae3-188409e161b7</ns1:image_url>
+    <ns1:price>2.25</ns1:price>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Duraznos con crema</ns1:name>
+    <ns1:description></ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/NyP99w1Xm5R1GA2uzCUN">
+    <ns1:image_url>undefined</ns1:image_url>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:price>1</ns1:price>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Sanduche de Jamón</ns1:name>
+    <ns1:description></ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/tDu0pSaz1eRQpBd6eg36">
+    <ns1:price>3</ns1:price>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:name>Jarra de tamarindo</ns1:name>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:description></ns1:description>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596683621016_0xo4z276fr2n_500x500?alt=media&amp;token=223fd786-e36d-4901-ba29-6e07a2c23e55</ns1:image_url>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/snTQiY4dysV13GVDOmtB">
+    <ns1:description></ns1:description>
+    <ns1:price>1.25</ns1:price>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596509211077_bdxjxu3fsos_500x500?alt=media&amp;token=4a9c4452-5d8b-4b7f-a799-ed07a049691f</ns1:image_url>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Mokachino</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/rAPN5bkgI5yuPVEgBt9w">
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:description></ns1:description>
+    <ns1:price>1.5</ns1:price>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Papas con carne</ns1:name>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596680870747_slid948ac6_500x500?alt=media&amp;token=8ae92752-8c46-416e-bc27-874efec973b8</ns1:image_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/z9C6PnF9uNjA9VXWlSqV">
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596401999430_gc6tfh0uve_500x500?alt=media&amp;token=a4b23f4a-d33a-4eb5-84a2-6d245710af0f</ns1:image_url>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:name>Ensalada de frutas con yogurth</ns1:name>
+    <ns1:description></ns1:description>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>1.75</ns1:price>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/rSmlZtejFcbBiswAuZsE">
+    <ns1:name>Helado doble con queso</ns1:name>
+    <ns1:image_url>undefined</ns1:image_url>
+    <ns1:description></ns1:description>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>2.25</ns1:price>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:est_time>undefined</ns1:est_time>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/h4tySEBlAe1eQYNqZLPD">
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1598473204756_5l50oa5tjmd_500x500?alt=media&amp;token=23380d29-77e5-4250-89ee-663928e18b60</ns1:image_url>
+    <ns1:name>6 Alas</ns1:name>
+    <ns1:price>5</ns1:price>
+    <ns1:description>Salsas disponibles: BBQ, Maracuya y Teriyaki</ns1:description>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/19FsNy6G1Pk6vhDSDx9D">
+    <ns1:description></ns1:description>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:price>1</ns1:price>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FLYtMA17CjrYaKHh57Ww3%2Fresized%2F1613692390741_ptmxj27978_500x500?alt=media&amp;token=02d2157a-1f83-48c5-81df-61e673298f0c</ns1:image_url>
+    <ns1:name>Coca cola con café</ns1:name>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/kgPsi0VYXAqdE8pFxh7N">
+    <ns1:price>3</ns1:price>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596684045164_6tx0rqy91ut_500x500?alt=media&amp;token=f2a8dd2b-32eb-458e-8242-6c8460680e8d</ns1:image_url>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:description></ns1:description>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:name>Jarra horchata</ns1:name>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/DZfIqr8DIstVoHwhySa0">
+    <ns1:name>Lomo mixto</ns1:name>
+    <ns1:description>Dos carnes a su selección, lomo de res, pechuga a la plancha, chuleta y lomo de cerdo. Con arroz papas fritas y ensalada</ns1:description>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:est_time>10</ns1:est_time>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1597371899165_mglz7p784xd_500x500?alt=media&amp;token=023a00d5-5737-4002-8c36-6c014ecaa290</ns1:image_url>
+    <ns1:price>6</ns1:price>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/S4asO0oH75dE4eMRVjHy">
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:price>2</ns1:price>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Hot Dog doble</ns1:name>
+    <ns1:description></ns1:description>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596404209897_r4o3h5ow7rg_500x500?alt=media&amp;token=ab8492a1-eb06-402b-8210-a0ee75a0668f</ns1:image_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/pmHjhwTCBGEE8rnV2FKY">
+    <ns1:name>Cerveza club grande</ns1:name>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596146373213_gu2pmcw5e98_500x500?alt=media&amp;token=851d2f20-e6f0-439a-9be6-b2462b87a55e</ns1:image_url>
+    <ns1:price>2</ns1:price>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:description></ns1:description>
+    <ns1:est_time>5</ns1:est_time>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/ajlxPw7fWSWgV6wubc7o">
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:price>1.5</ns1:price>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:description></ns1:description>
+    <ns1:name>Tres leches</ns1:name>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596506713048_hc0fmcq4aso_500x500?alt=media&amp;token=6b00f1f7-7584-49e5-86ba-0cfbcf97437e</ns1:image_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/6G59vE8u1rIjt81FLv52">
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1598474383026_8sydbwcid14_500x500?alt=media&amp;token=b50710e1-d10b-4e7f-aabd-05bf1b3f50b2</ns1:image_url>
+    <ns1:name>Pechuga a la Plancha</ns1:name>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:description>Pechuga de pollo a la plancha, con arroz, menestra, papas fritas y ensalada.</ns1:description>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:price>4</ns1:price>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/CtgWmqbD8fdqXRD8Bdob">
+    <ns1:name>Agua mineral</ns1:name>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596400596533_yi8hhgmbyx_500x500?alt=media&amp;token=b2ee2c48-cea2-4a72-a943-757d698eb05a</ns1:image_url>
+    <ns1:description></ns1:description>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>0.7</ns1:price>
+    <ns1:est_time>5</ns1:est_time>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/uGajQrLIm63tahEt3vA9">
+    <ns1:name>Jugo</ns1:name>
+    <ns1:est_time>10</ns1:est_time>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:description></ns1:description>
+    <ns1:price>2.5</ns1:price>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FLYtMA17CjrYaKHh57Ww3%2Fresized%2F1611006580951_ny4mjbodsq_500x500?alt=media&amp;token=164ab669-7563-4983-bb3c-d4f8a0595019</ns1:image_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/89x4rdml9rKDoYiZTuH9">
+    <ns1:image_url>undefined</ns1:image_url>
+    <ns1:name>1/2 Jarra de limonada</ns1:name>
+    <ns1:description></ns1:description>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>1.5</ns1:price>
+    <ns1:est_time>5</ns1:est_time>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/">
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>10</ns1:price>
+    <ns1:image_url>None</ns1:image_url>
+    <ns1:description>None</ns1:description>
+    <ns1:name>TRUE</ns1:name>
+    <ns1:est_time>None</ns1:est_time>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/4uyZfVy00vd8SkhT0gfF">
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>0.5</ns1:price>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596683700378_0ih2vkaqhzn8_500x500?alt=media&amp;token=c74e8f66-271b-487d-92ca-61249ab0f91f</ns1:image_url>
+    <ns1:name>Limonada</ns1:name>
+    <ns1:description></ns1:description>
+    <ns1:est_time>10</ns1:est_time>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/sEwS8ckwcIqMW4QOl8zC">
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:price>1.5</ns1:price>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596403079394_39tk7orw86k_500x500?alt=media&amp;token=7e049e57-b47d-4937-b6c7-2da1703726c1</ns1:image_url>
+    <ns1:description></ns1:description>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Hamburguesa simple de res</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/EFC4CDcwugX6zEtX2y5n">
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596488816826_allntf1rvzb_500x500?alt=media&amp;token=580b96d7-d54a-44c5-9c48-276b7b6c6aa1</ns1:image_url>
+    <ns1:price>4</ns1:price>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:description>Lomo de Res, con arroz, menestra, papas fritas y ensalada</ns1:description>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Lomo de Res</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/ekUQGHwAtZ73ZzbkrrXd">
+    <ns1:est_time>1</ns1:est_time>
+    <ns1:name>hamburguesa titan</ns1:name>
+    <ns1:price>1</ns1:price>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FLYtMA17CjrYaKHh57Ww3%2Fresized%2F1611006625741_4to2djoqffs_500x500?alt=media&amp;token=999a622c-cf9e-411c-9332-851d6fd10ae8</ns1:image_url>
+    <ns1:description></ns1:description>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/qAllL2meAHP1kRyLDjaD">
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Pollo entero completo</ns1:name>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596508817570_uj8m9ugj648_500x500?alt=media&amp;token=fd2452da-1ece-466b-a97d-b1979dbfc62b</ns1:image_url>
+    <ns1:description></ns1:description>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>15</ns1:price>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/r2JiO1xpooMbgFjcXhO9">
+    <ns1:price>1.25</ns1:price>
+    <ns1:description></ns1:description>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596683836314_fj0m5gncq9o_500x500?alt=media&amp;token=bc19b006-4490-49a9-a2dd-a9d125c614b6</ns1:image_url>
+    <ns1:name>Jugo de Naranja</ns1:name>
+    <ns1:est_time>10</ns1:est_time>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/ueEN9McmssIuAQiHvdlv">
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596402997763_377c2vtgnxx_500x500?alt=media&amp;token=4bd01784-cb04-4c0b-8d20-1b8aac0c43ad</ns1:image_url>
+    <ns1:description></ns1:description>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:price>2</ns1:price>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Hamburguesa hawaiana</ns1:name>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/bBuHtb3qpjOVBm945pMv">
+    <ns1:description></ns1:description>
+    <ns1:name>Banana Split</ns1:name>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596400644540_6x1ysnw3m94_500x500?alt=media&amp;token=67e3b5d1-7e2e-448e-a12e-695099dce7e3</ns1:image_url>
+    <ns1:price>3.5</ns1:price>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:est_time>10</ns1:est_time>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/kAi69Oo21VTRdY5c0qQI">
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>3</ns1:price>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:name>Jarra de Limonada</ns1:name>
+    <ns1:description></ns1:description>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596161066695_25cyj21do6e_500x500?alt=media&amp;token=b562777e-826c-428f-a14a-97b14db47565</ns1:image_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/i80zsTAQTYZrct6f52qs">
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:description></ns1:description>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>1.75</ns1:price>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596681512524_xg9ryuxosbq_500x500?alt=media&amp;token=52692640-ac72-4268-b6a2-be8c643546ae</ns1:image_url>
+    <ns1:name>Sanduche de pollo</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/xjvgGvAgCRYSuYmC9oc9">
+    <ns1:price>3</ns1:price>
+    <ns1:name>Michelada de Mango</ns1:name>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1606534820146_w5dfbe10xad_500x500?alt=media&amp;token=fe9be7a4-371c-4551-b5ef-baea80b596d3</ns1:image_url>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:est_time>10</ns1:est_time>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:description>Deliciosa michelada con limón, sal, pimienta y trozos de mango verde.</ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/3zXLZMHwO9JqA00pklWJ">
+    <ns1:price>0.5</ns1:price>
+    <ns1:description></ns1:description>
+    <ns1:name>Agua Aromática</ns1:name>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596400545538_r741ubxd8ko_500x500?alt=media&amp;token=23f21b5b-2cf2-4067-83f1-edcb4c2d5be1</ns1:image_url>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/3miXJisOBXltKWHKrcvV">
+    <ns1:est_time>5</ns1:est_time>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596402106127_eqx3554xma9_500x500?alt=media&amp;token=e49c2619-836f-491e-85e8-dcec3ffa505e</ns1:image_url>
+    <ns1:name>Fuzetea</ns1:name>
+    <ns1:price>1</ns1:price>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:description></ns1:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/ksPUz6vWVbotdgB3OFY7">
+    <ns1:price>4</ns1:price>
+    <ns1:est_time>10</ns1:est_time>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Lomo de Cerdo</ns1:name>
+    <ns1:description>Lomo de Cerdo, con arroz, menestra, papas fritas y ensalada</ns1:description>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1595738394940_fuka4bted19_500x500?alt=media&amp;token=93d453a1-e624-4d55-8f9a-724f0c29996f</ns1:image_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/qtMGaHc2WocPvbW0EyJ6">
+    <ns1:description></ns1:description>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Cerveza club personal</ns1:name>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596146403508_11q8k1y44aw_500x500?alt=media&amp;token=abca19b1-b430-4c92-b31f-9c8918f1776f</ns1:image_url>
+    <ns1:price>1.5</ns1:price>
+    <ns1:est_time>5</ns1:est_time>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/CuHLpQyI5symMSts6bWk">
+    <ns1:image_url>undefined</ns1:image_url>
+    <ns1:description></ns1:description>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>1.5</ns1:price>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:name>Café de La Viña</ns1:name>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/YgG0SBSBzIgoLUKDo0Vv">
+    <ns1:description>Rico filete </ns1:description>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>5</ns1:price>
+    <ns1:est_time>20</ns1:est_time>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Filete de pollo </ns1:name>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FLYtMA17CjrYaKHh57Ww3%2Fresized%2F1600830946797_9nby8cxgm7_500x500?alt=media&amp;token=75d02b55-fc2d-4728-93c5-1a2320c3755c</ns1:image_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/YkUjTWSBCzvzaw1rI2DM">
+    <ns1:est_time>10</ns1:est_time>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:name>Frappuccino</ns1:name>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:price>3</ns1:price>
+    <ns1:description></ns1:description>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/rayoexpress-a9f19.appspot.com/o/products%2F724MTl7Td35vp44MXTYW%2F1590601329746_bm278cdp4i?alt=media&amp;token=b207f9d4-67c5-4497-89f3-ebacc6df32a5</ns1:image_url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1/food/instance/NiULcc6402AxBql0szUU">
+    <ns1:name>Jugos</ns1:name>
+    <ns1:description>Jugos de Mora, Frutilla, Tomate de Árbol, Piña, Babaco, Melon</ns1:description>
+    <rdf:type rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:est_time>10</ns1:est_time>
+    <ns1:price>1</ns1:price>
+    <ns1:offers rdf:resource="http://127.0.0.1/food/ontology/Food"/>
+    <ns1:image_url>https://firebasestorage.googleapis.com/v0/b/ordersmanagment-c22d9.appspot.com/o/public%2FanmzJT7JaCjJM2CVFNlP%2Fresized%2F1596683774167_q9uog7d1i_500x500?alt=media&amp;token=b2968827-ddcd-43bb-b2a5-c00594d07a5a</ns1:image_url>
+  </rdf:Description>
+</rdf:RDF>
